@@ -60,17 +60,6 @@ This script is intended for educational purposes only. Unauthorized scanning of 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-
-### Key Elements:
-- **Title and Description**: Provides a brief overview of the script's functionality.
-- **Features Section**: Highlights the main capabilities of the script.
-- **Requirements Section**: Lists the dependencies needed to run the script.
-- **Usage Instructions**: Includes clear steps to run the script.
-- **Example Output**: Shows what the output might look like.
-- **How It Works Section**: Offers a high-level explanation of the code's functionality.
-- **Disclaimer**: Warns users about the ethical and legal considerations of using the script.
-- **License and Contributions**: Encourages open-source collaboration.
-
 This `README.md` is designed to be both informative and visually appealing.
 
 
